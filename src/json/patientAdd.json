@@ -1,0 +1,22 @@
+{
+    "PatientAddress":[
+        {
+            "id":"1",
+            "AddressType":"Home",
+            "Address":"87 GreatNorth Road ,ALTON",
+            "isSelected":false
+        },
+        {
+            "id":"2",
+            "AddressType":"Office",
+            "Address":"87 Sumedha Housing Society ,Pune",
+            "isSelected":false
+        },
+        {
+            "id":"3",
+            "AddressType":"Home",
+            "Address":"A G Trade Center, Pune",
+            "isSelected":false
+        }
+    ]
+}

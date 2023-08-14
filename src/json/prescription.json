@@ -1,0 +1,28 @@
+{
+    "Prescription": [
+        {
+            "id": "1",
+            "Image": "",
+            "Type":"Uploaded",
+            "Date":"5 Mar 2020",
+            "Time":"6:30 PM",
+            "Status":"Submitted"
+        },
+        {
+            "id": "2",
+            "Image": "",
+            "Type":"Uploaded",
+            "Date":"5 Mar 2020",
+            "Time":"6:30 PM",
+            "Status":"Approved"
+        },
+        {
+            "id": "3",
+            "Image": "",
+            "Type":"Uploaded",
+            "Date":"5 Mar 2020",
+            "Time":"6:30 PM",
+            "Status":"Denied"
+        }
+    ]
+}

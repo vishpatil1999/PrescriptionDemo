@@ -1,0 +1,16 @@
+{
+    "PaymentMethod":[
+        {
+            "id":"1",
+            "Sign":"$",
+            "Type":"Cash",
+            "isSelected":false
+        },
+        {
+            "id":"2",
+            "Sign":"💳",
+            "Type":"Payment via Card",
+            "isSelected":false
+        }
+    ]
+}

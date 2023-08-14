@@ -1,0 +1,22 @@
+{
+    "PatientDetails":[
+        {
+            "id":"1",
+            "name":"Jessika",
+            "relation":"GrandParent",
+            "isSelected":false
+        },
+        {
+            "id":"2",
+            "name":"Ananya",
+            "relation":"Children",
+            "isSelected":false
+        },
+        {
+            "id":"3",
+            "name":"Jack",
+            "relation":"Husband",
+            "isSelected":false
+        }
+    ]
+}

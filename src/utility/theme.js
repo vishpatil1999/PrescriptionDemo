@@ -1,0 +1,40 @@
+export const theme = {
+    PRIMARY_BACKGROUND: '#FFFFFF', // Primary BG Color
+    TOPLEAD_CARD_BACKGROUND: '#00A0FF', // Top Lead Card BG Color
+    PRIMARY_BUTTON_BLACK: '#111827', // Black Button BG Color
+    PRIMARY_BUTTON_WHITE: '#FFFFFF',
+    BUTTON_GRAY: '#F3F4F6',  // Gray Button BG Color
+    PRIMARY_ICON_WHITE: '#FFFFFF',
+    PRIMARY_ICON_BLACK: '#111827',
+    PRIMARY_TAB_BUTTON: '#111827',
+    ICON_BLACK: '#111827',
+    PRIMARY_BUTTON_BLACK_LABEL: '#FFFFFF',
+    PRIMARY_BUTTON_WHITE_LABEL: '#111827',
+    TEXT_WHITE: '#FFFFFF',   // Text White Color
+    TEXT_BLACK: '#111827',
+    SUBTEXT_LIGTHBLUE: '#A0DCFF',    // Light Blue Text Color
+    PRIMARY_TEXT_LABEL: '#111827',   // Text Lable Black
+    PRIMARY_TEXT_WHITE: '#FFFFFF', 
+    PLACEHOLDER_TEXT: '#9CA3AF',
+    DOT_BACKGROUND: '#9CA3AF',       // Pagination Dot Color
+    TEXT_GRAY: '#9CA3AF',            // Text Gray Color
+    INACTIVE_TAB: '#9CA3AF', 
+    HOT: '#FF4F4F',
+     HOT_LIGHT: '#FDD9D9',
+     WARM: '#FFC700',
+     WARM_LIGHT: '#FFEDAC',
+     COLD: '#00A0FF',
+     COLD_LIGHT: '#98cced',
+     // Filter theme colors
+     SELECTION_BACKGROUND: '#E5E7EB',
+     SELECTION_BORDER_COLOR:'#111827',
+     BORDER_COLOR:'#E5E7EB',
+     HANDLE_COLOR:'#00000040',
+     BACKGROUND_INPUTBOX: '#F3F4F6',
+      //complete in follow up
+      COMPLETE_FOLLOW_BUTTON: "#52B54F",
+     PRIMARY_GRAY:'#6B7280',
+     NOTIFICATION_CARD:'#F9FAFB',
+     NOTIFICATION_HEADER:'#E5E7EB',
+     ORANGE:'#f19b38'
+ }
