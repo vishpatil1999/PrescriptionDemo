@@ -250,7 +250,9 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     marginBottom: hp(3),
     justifyContent: 'space-between',
-    width: '100%'
+    width: '100%',
+    backgroundColor:'yellow',
+    backgroundColor:'pink'
   },
   phoneInput: {
     // marginLeft: 10,
